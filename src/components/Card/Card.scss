@@ -1,0 +1,14 @@
+.card {
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+    .open {
+        width: 100%;
+        height: auto;
+    }
+
+    .closed {
+        width: 100%;
+        height: auto;
+    }
+}
